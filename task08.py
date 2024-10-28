@@ -1,5 +1,5 @@
-city = print("Where do you live?")
-input("You live in " + city)
+city = input("Where do you live?")
+print(input("You live in " + city))
 
 
 
@@ -7,3 +7,4 @@ input("You live in " + city)
 ### DISCUSS HERE:
 ###
 ### Was this a... syntax, logical or runtime error?
+#syntax

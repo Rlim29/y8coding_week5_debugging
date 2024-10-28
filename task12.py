@@ -1,4 +1,4 @@
-confident = input("How confident are you with programming? Enter number 1 - 10!")
+confident = int(input("How confident are you with programming? Enter number 1 - 10!"))
 
 if confident == 10:
     print("Great! I can't wait to see you code!")
@@ -13,3 +13,4 @@ else:
 ### DISCUSS HERE:
 ###
 ### Was this a... syntax, logical or runtime error?
+#logical
